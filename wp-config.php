@@ -67,7 +67,7 @@ $table_prefix  = 'blue_';
  *
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
-define('WP_DEBUG', false);
+define('WP_DEBUG', true);
 define( 'WP_DEBUG_LOG', true );
 define( 'WP_DEBUG_DISPLAY', false );
 define( 'SCRIPT_DEBUG', true );
