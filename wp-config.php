@@ -23,10 +23,10 @@
 define('DB_NAME', 'designte_azullblue');
 
 /** MySQL database username */
-define('DB_USER', 'designte_azullbl');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'india$123');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
